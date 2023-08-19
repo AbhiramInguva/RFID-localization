@@ -6,7 +6,7 @@ This repository contains Python code that demonstrates RFID localization using h
 
 Before running the code, make sure you have the following:
 
-- Python 3.x
+- Python 3.10
 - Required packages: `numpy`, `scipy`, `pandas`, and `matplotlib`
 
 You can install these packages using the following command:
