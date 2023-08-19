@@ -20,7 +20,7 @@ pip install numpy scipy pandas matplotlib
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/rfid-localization.git
+git clone https://github.com/AbhiramInguva/rfid-localization.git
 ```
 
 2. Navigate to the repository directory:
